@@ -1,0 +1,46 @@
+      .textview{
+        border-radius: 12.5px;
+        color : #223e52;
+        width: 215;
+        margin: 5px;
+        font-size: 20px;
+        padding: 5px;
+      }
+
+      .creator{
+        color: white;
+        position: absolute;
+        left : 495px;
+        top: 80px;
+        font-size: 20px;
+        font-family: "Lucida Console", "Courier New", monospace;
+        font-weight: 700;
+      }
+        
+      .body{
+        background: linear-gradient(to right,#0f0c29, blue, #302b63);
+      }
+      
+      *{
+        margin: 0;
+        padding: 0;
+      }
+
+      .button{
+        width: 50px;
+        height: 50px;
+        font-size: 25;
+        margin: 2px;
+        cursor: pointer;
+        background-color: #d68917;
+        color: #1c3331;
+        border: 2px solid #0d4e85;
+      }
+
+      .main{
+        position: absolute;
+        top: 25%;
+        left:40%;
+      }
+
+    
